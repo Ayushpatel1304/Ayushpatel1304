@@ -49,7 +49,8 @@ Cloud-native developer and Python enthusiast passionate about solving real-world
 | 🚀 Project | 🧩 Description | 🛠️ Stack |
 |-----------|----------------|---------|
 | **Web Application**| digital Real Estate platform built with modern microservices architecture | Java, Reddit, Docker, React|
-
+| **EC2 auto scaling with ELB** | EC2 instance which scales automatically with load using ELB | EC2, IAM, ELB, Cloudwatch |
+| **Serverless image resizer** | Event driven architecture for resizing the image by just uploadong the file | S3 , Lambda , IAM ,SG |
 ---
 
 ## 📬 Let’s Connect
