@@ -52,6 +52,7 @@ Cloud-native developer and Python enthusiast passionate about solving real-world
 | **EC2 auto scaling with ELB** | EC2 instance which scales automatically with load using ELB | EC2, IAM, ELB, Cloudwatch |
 | **Serverless image resizer** | Event driven architecture for resizing the image by just uploadong the file | S3 , Lambda , IAM ,SG |
 | **CI/CD with codepipeline** | Automatic deployments with codepipeline using codebuild and s3 | CodePipeline, CodeBuild, CodeDeploy, S3/EC2 targets |
+| **Multi tier Modular App** | Automate deployment with terraform over 3 diffrent app at same time | EC2 , S3, Dynamodb , VPC, Terraform|
 ---
 
 ## 📬 Let’s Connect
