@@ -1,4 +1,4 @@
-<h1 align="center">Ayush Patel — Cloud  Engineer | AWS Certified | DevOps Builder  </h1>
+<h1 align="center">Ayush Patel — DevOps Engineer | AWS Certified | DevOps Builder  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Infrastructure;Python+in+the+Cloud;Automating+Everything;DevOps+with+Impact;Scaling+with+AWS;Building+for+Production" />
